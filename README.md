@@ -10,7 +10,7 @@ Public portfolio repository containing five educational project demonstrations f
 5. [Healthcare Predictive Analytics](task5-predictive-analytics/)
 
 ## Additional internship task pack
-- [ADR / Pharmacovigilance Internship — 5 tasks](ADR_Pharmacovigilance_Internship/)
+- [Pharmacovigilance Internship — all 5 tasks](Pharmacovigilance/)
 
 ## Setup
 Use Python 3.10 or later:
