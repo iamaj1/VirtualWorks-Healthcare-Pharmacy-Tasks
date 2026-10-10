@@ -1,0 +1,5 @@
+case_id,temporal_relationship,alternative_cause,dechallenge,rechallenge,objective_evidence,case_note,educational_category,review_note
+DEMO-CAUSE-001,reasonable,unlikely,positive,positive,yes,"Fictional scenario with strong chronology and supportive evidence",Certain (training example),"Human PV review required; timing alone does not establish causality."
+DEMO-CAUSE-002,reasonable,unlikely,positive,not_done,yes,"Fictional scenario where the event improves after withdrawal; rechallenge not done",Probable/Likely (training example),"Human PV review required; timing alone does not establish causality."
+DEMO-CAUSE-003,reasonable,possible,unknown,not_done,no,"Fictional scenario with a plausible alternative explanation and incomplete follow-up",Possible (training example),"Human PV review required; timing alone does not establish causality."
+DEMO-CAUSE-004,unclear,likely,unknown,unknown,no,"Fictional scenario lacking enough evidence","Unassessable / needs more information","Human PV review required; timing alone does not establish causality."
