@@ -1,6 +1,0 @@
-ICSR TRAINING OUTPUT — NOT FOR REGULATORY SUBMISSION
-Case ID: DEMO-ICSR-005
-Minimum information check: SCREENING ELEMENTS PRESENT
-Missing items: None of the configured screening fields
-Follow-up questions: 4
-Human pharmacovigilance review required; no validated E2B/R3 export is produced.
