@@ -1,0 +1,2 @@
+case_id,event_description,suspect_medicine,start_date,event_onset_date,seriousness_reviewed,alternative_causes_reviewed,causality_conclusion
+DEMO-ADR-001,"New rash reported after starting Example Medicine A",Example Medicine A,2026-09-01,2026-09-04,Yes,Pending,"Suspected; not confirmed"
