@@ -1,0 +1,4 @@
+case_id,event_description,severity_intensity,death,life_threatening,hospitalization,significant_disability,congenital_anomaly,other_medically_important,outcome
+DEMO-SEV-001,"Transient mild nausea",Mild,No,No,No,No,No,No,Improving
+DEMO-SEV-002,"Severe headache requiring inpatient observation",Severe,No,No,Yes,No,No,Yes,Recovering
+DEMO-SEV-003,"Moderate rash; no serious outcome reported",Moderate,No,No,No,No,No,No,Recovered
