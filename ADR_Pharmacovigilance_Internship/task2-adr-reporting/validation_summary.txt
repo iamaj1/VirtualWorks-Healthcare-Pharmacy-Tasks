@@ -1,0 +1,8 @@
+EDUCATIONAL ADR INTAKE VALIDATION — NOT A REGULATORY DATABASE
+Case: DEMO-ADR-002
+Minimum information check: PASS
+Missing required fields: None
+Follow-up noted: Yes
+Follow-up: Confirm action taken, concomitant products, medical history, seriousness criteria.
+Causality: Not automatically determined by the validator.
+Note: Fictional sample only.
