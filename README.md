@@ -1,23 +1,19 @@
-# VirtualWorks Healthcare & Pharmacy Data Analytics
+# Internship Portfolio Projects
 
-Public portfolio repository containing five educational project demonstrations for the VirtualWorks Healthcare/Pharmacy Data Analytics internship.
+This repository contains two combined portfolio projects. Each main folder contains five related tasks.
 
-## Project index
-1. [Healthcare Data Cleaning & Understanding](task1-healthcare-cleaning/)
-2. [Healthcare Data Visualization](task2-healthcare-visualization/)
-3. [Pharmacy Sales & Drug Analysis](task3-pharmacy-sales/)
-4. [Adverse Drug Reaction Data Analysis](task4-adr-analysis/)
-5. [Healthcare Predictive Analytics](task5-predictive-analytics/)
+## 1. Healthcare & Pharmacy Data Analytics
+Includes healthcare data cleaning, healthcare visualization, pharmacy sales analysis, ADR dataset analysis, and healthcare predictive analytics.
 
-## Additional internship task pack
-- [Pharmacovigilance Internship — all 5 tasks](Pharmacovigilance/)
+[Open Healthcare & Pharmacy Data Analytics](Healthcare-Pharmacy-Data-Analytics/)
 
-## Setup
-Use Python 3.10 or later:
-```bash
-pip install -r requirements.txt
-```
-Run each task's `analysis.py` from its folder. Generated CSVs, text reports, and charts are saved alongside the script.
+## 2. Pharmacovigilance Internship Project
+Includes ADR identification, ADR reporting and documentation, causality assessment, severity and case classification, and an Individual Case Safety Report (ICSR) example.
 
-## Data integrity and limitations
-The examples generate synthetic/illustrative data. They are not real patient records, actual pharmacy sales, or validated adverse-event evidence. The predictive model is an educational exercise only and must not be used for clinical decisions.
+[Open Pharmacovigilance Internship Project](Pharmacovigilance/)
+
+## Tools
+Python, pandas, NumPy, Matplotlib, scikit-learn, CSV/JSON documentation.
+
+## Data transparency
+Task datasets and safety case examples in this portfolio are synthetic/fictitious training examples, not real patient data, true pharmacy transactions, validated adverse-event reports, or regulatory submissions. Predictive and pharmacovigilance outputs are educational only and must not be used for clinical decision-making.
