@@ -1,0 +1,40 @@
+{
+  "case_id": "DEMO-ICSR-005",
+  "case_type": "Fictional training case",
+  "patient": {
+    "patient_reference": "PATIENT-DEMO-005",
+    "age_group": "Adult",
+    "sex": "Not provided"
+  },
+  "reporter": {
+    "reporter_reference": "Training Pharmacist B",
+    "qualification": "Healthcare professional (fictional)",
+    "contact_details": "Not provided in demo"
+  },
+  "suspect_product": {
+    "product_name": "Example Medicine C",
+    "dose": "Not supplied",
+    "route": "Oral (fictional scenario)",
+    "therapy_start_date": "2026-09-01",
+    "therapy_stop_date": "Not supplied"
+  },
+  "reaction": {
+    "reported_term": "Generalized rash",
+    "onset_date": "2026-09-04",
+    "outcome": "Improving",
+    "severity_intensity": "Moderate (illustrative)",
+    "seriousness": "No listed seriousness criterion reported in this scenario"
+  },
+  "causality": {
+    "educational_assessment": "Possible",
+    "rationale": "Reasonable temporal association is described, but alternative causes and dechallenge details are incomplete.",
+    "final_medical_assessment": "Not performed"
+  },
+  "follow_up_questions": [
+    "Confirm product dose, batch/lot if available, and exact treatment dates.",
+    "Confirm concomitant medicines, medical history, and alternative causes.",
+    "Confirm seriousness criteria and clinical outcome.",
+    "Request source documentation and qualified medical/PV review."
+  ],
+  "disclaimer": "Entirely fictional educational data. Not for clinical use or regulatory submission."
+}
