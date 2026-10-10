@@ -9,6 +9,9 @@ Public portfolio repository containing five educational project demonstrations f
 4. [Adverse Drug Reaction Data Analysis](task4-adr-analysis/)
 5. [Healthcare Predictive Analytics](task5-predictive-analytics/)
 
+## Additional internship task pack
+- [ADR / Pharmacovigilance Internship — 5 tasks](ADR_Pharmacovigilance_Internship/)
+
 ## Setup
 Use Python 3.10 or later:
 ```bash
