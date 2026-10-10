@@ -1,0 +1,2 @@
+case_id,patient_reference,reporter_reference,suspect_product,reaction_event,therapy_start_date,event_onset_date,outcome,seriousness,action_taken,concomitant_medicines,medical_history,source_type,follow_up_needed
+DEMO-ADR-002,PATIENT-DEMO-002,Training Pharmacist A,Example Medicine B,"Nausea; dizziness",2026-09-10,2026-09-12,Improving,Not reported serious,Not supplied,Not supplied,Not supplied,Training scenario,"Confirm action taken, concomitant products, medical history, seriousness criteria"
